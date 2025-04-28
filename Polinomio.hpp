@@ -5,6 +5,7 @@
 class Polinomio {
 public:
     Polinomio operator+(Polinomio Q);
+    Polinomio operator-(Polinomio Q);
     void ImprimirPol();
     void CapturarPol();
     void EstablecerGrado(int g);

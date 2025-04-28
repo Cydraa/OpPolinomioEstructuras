@@ -38,7 +38,7 @@ int main()
         cout << "suma entero: " << c << endl;
 
         P.ImprimirPol();
-        cout << "\n+";
+        cout << "\n-";
         Q.ImprimirPol();
         cout << "\n=";
 
